@@ -1,0 +1,12 @@
+Section 1:
+-slingshot theory
+
+Section 2:
+-theory continued/setup
+
+Section 3:
+- Exploring intial conditions and our exploration
+- energy plots, tunining in condos and stuff
+
+Section 4: 
+- results
